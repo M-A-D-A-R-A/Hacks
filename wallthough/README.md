@@ -18,4 +18,5 @@ if ( r_drawothermodels.GetInt() == 2 )
 
 The r_drawothermodels check is modified to make the if expression evaluate to true when r_drawothermodels cvar is set to default value (1).
 
-![image](https://user-images.githubusercontent.com/56160262/117774253-eb53c780-b256-11eb-9fc3-38ec42b8207e.png)
+![d8e56303b2dab97670a1d774ea9fb285](https://user-images.githubusercontent.com/56160262/117774309-f870b680-b256-11eb-8d7f-e78f88ade9a8.jpg)
+
